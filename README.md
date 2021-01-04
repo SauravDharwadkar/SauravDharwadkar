@@ -4,8 +4,12 @@
 
 
 
-![sauravdharwadkar](https://github-readme-stats.vercel.app/api?username=sauravdharwadkar&show_icons=true&title_color=578146&icon_color=802080&text_color=777777&bg_color=101810)
-
+![sauravdharwadkar](https://github-readme-stats.vercel.app/api?username=sauravdharwadkar&count_private=true&show_icons=true&theme=flag-india)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdharwadkar&layout=compact)
+<br/>
+![Sauravdharwadkar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravdharwadkar)
+ 
 <!--
 **SauravDharwadkar/SauravDharwadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
