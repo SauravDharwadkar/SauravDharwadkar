@@ -5,9 +5,7 @@
 
 
 ![sauravdharwadkar](https://github-readme-stats.vercel.app/api?username=sauravdharwadkar&count_private=true&show_icons=true&theme=flag-india)
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdharwadkar&layout=compact)
-<br/>
 ![Sauravdharwadkar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravdharwadkar)
  
 <!--
