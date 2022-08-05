@@ -6,6 +6,8 @@
 
 ![sauravdharwadkar](https://github-readme-stats.vercel.app/api?username=sauravdharwadkar&count_private=true&show_icons=true&theme=flag-india)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdharwadkar&layout=compact&exclude_repo=megatools-fork)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sauravdharwadkar)](https://git.io/streak-stats)
 <!--
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=timeline&username=sauravdharwadkar)
 -->
