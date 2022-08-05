@@ -17,7 +17,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravdharwadkar&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sauravdharwadkar&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sauravdharwadkar&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sauravdharwadkar&theme=default&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sauravdharwadkar&theme=default&utcOffset=5) 
 
 <!--
 ![Sauravdharwadkar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravdharwadkar&layout=compact)
